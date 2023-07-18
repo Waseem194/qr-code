@@ -1,0 +1,23 @@
+body {
+  background-color: hsl(228, 45%, 44%);
+  font-family: "Gill Sans Extrabold", sans-serif;
+
+}
+.main {
+  width: 230px;
+  height: 405px;
+  background-color: whitesmoke;
+  margin: auto;
+  margin-top: 8em;
+  box-shadow: 5em;
+  border-radius: 10px;
+  text-align: center;
+}
+#qrCode {
+  height: 215px;
+  width: 208px;
+  margin-top: 0.5em;
+  margin-left: 0.1em;
+  border-radius: 10px;
+}
+
